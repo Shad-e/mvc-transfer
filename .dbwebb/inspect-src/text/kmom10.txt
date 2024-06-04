@@ -1,0 +1,18 @@
+Jag har tittat på din sista inlämning och bedömt samt betygsatt enligt:
+https://dbwebb.se/kurser/mvc-v2#betyg
+
+Du har fått poäng, bedömning och slutbetyg enligt följande:
+
+Projekt
+- K123:    30 (30p)
+- K4:         0 (10p)
+- K5:         0 (10p)
+- K6:         0 (10p)
+-------------------
+TOTALT:   60 (60p)
+
+me/report: OK
+
+SLUTBETYG: D (A-F, Fx)
+
+$TEACHER_SIGNATURE

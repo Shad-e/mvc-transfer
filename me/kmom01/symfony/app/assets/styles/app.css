@@ -1,0 +1,14 @@
+header {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: fill;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+h1 {
+    border-bottom: 4px double #ccc;
+}
